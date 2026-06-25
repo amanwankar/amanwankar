@@ -1,5 +1,44 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>* Building real-world DevOps and Cloud projects using AWS, Docker, Kubernetes, Jenkins, and Amazon EKS<br>* Python automation tools for cloud monitoring, backup management, and system administration<br>* AI-powered applications and SaaS products<br>* Expanding my GitHub portfolio with production-style projects<br><br>👯 I’m looking to collaborate on<br><br>* Open-source DevOps and Cloud projects<br>* Python automation tools<br>* AI and SaaS applications<br>* Kubernetes and Infrastructure as Code projects<br>* Full-stack web applications<br><br>🤝 I’m looking for help with<br><br>* Terraform and Infrastructure as Code<br>* Advanced Kubernetes and EKS<br>* Cloud Security and DevSecOps<br>* System Design and Scalable Architectures<br>* Open-source contribution best practices<br><br>🌱 I’m currently learning<br><br>* Amazon EKS<br>* Terraform<br>* Advanced Kubernetes<br>* Cloud Security<br>* GitHub Actions<br>* DevOps Best Practices<br>* System Design<br><br>💬 Ask me about<br><br>* AWS Cloud<br>* Docker<br>* Kubernetes<br>* Jenkins CI/CD<br>* Linux<br>* Python Automation<br>* Git & GitHub<br>* Cloud Monitoring<br>* DevOps Project Building<br>* AI Application Development<br><br>⚡ Fun fact<br><br>* Most of my skills were developed through building projects from scratch rather than only watching tutorials.<br>* I enjoy turning ideas into working products, from AI applications and SaaS tools to Cloud and DevOps solutions.<br><br>```<br><br>### Your Current Project Portfolio<br><br>#### ☁️ DevOps & Cloud<br>- DevOps Major Project<br>- Simple Jenkins Project<br>- Cloud Monitoring with AWS CloudWatch (Python)<br>- Automated Backup System to AWS S3 (Python)<br>- Linux Log Monitoring Project<br>- Amazon EKS Deployment Projects<br><br>#### 🐍 Python Development<br>- Basic to Advanced Python Projects<br>- Python Basic Projects<br>- Cloud Automation Scripts<br>- Monitoring & Logging Tools<br><br>#### 🤖 AI Projects<br>- AI Assistant<br><br>#### 🌐 Web & SaaS Projects<br>- DealDrop (Deals & Offers Platform)<br>- Lernify AI (Education Platform)<br>- BudgetPro (Finance Management)<br>- ZenLock<br>- WorkNear Website<br>- Lost & Found Campus Portal<br>- Mount Ltrea School Website<br><br>### Professional Bio<br><br>> Aspiring DevOps & Cloud Engineer with hands-on experience in AWS, Docker, Kubernetes, Jenkins, Linux, Python Automation, and Cloud Infrastructure. Passionate about building scalable systems, automating workflows, and developing AI-powered and SaaS applications. Strong believer in project-based learning with a portfolio spanning Cloud Engineering, DevOps, Python Automation, Artificial Intelligence, and Full-Stack Development.<br><br>### GitHub Headline<br><br>🚀 DevOps & Cloud Engineer in Progress | AWS • Docker • Kubernetes • Jenkins • Python | Building Cloud, AI & SaaS Projects | Open Source Learner<br><br>### What Makes Your Profile Unique<br><br>Most beginners have only:<br>- Tutorial projects<br>- One technology stack<br><br>Your profile shows work across:<br>- DevOps<br>- Cloud<br>- Python Automation<br>- AI<br>- SaaS Products<br>- Full-Stack Development<br><br>That's a stronger story: **"Builder who can develop applications and deploy them using modern DevOps practices."**<br>```<br>
+# 💫 About Me
+
+🔭 I'm currently working on
+
+* DevOps & Cloud projects using AWS, Docker, Kubernetes, Jenkins, and EKS
+* Python automation tools
+* AI-powered applications and SaaS products
+
+👯 I'm looking to collaborate on
+
+* Open-source DevOps projects
+* Cloud-native applications
+* Python automation tools
+
+🤝 I'm looking for help with
+
+* Terraform
+* Advanced Kubernetes
+* Cloud Security & DevSecOps
+
+🌱 I'm currently learning
+
+* Amazon EKS
+* Terraform
+* GitHub Actions
+* Advanced Kubernetes
+
+💬 Ask me about
+
+* AWS
+* Docker
+* Kubernetes
+* Jenkins
+* Linux
+* Python
+* Git & GitHub
+
+⚡ Fun fact
+
+* I learn by building real projects, breaking them, fixing them, and documenting everything on GitHub.
+
 
 
 ## 🌐 Socials:
